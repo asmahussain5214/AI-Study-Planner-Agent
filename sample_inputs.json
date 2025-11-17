@@ -1,0 +1,14 @@
+{
+  "user1": {
+    "name": "Asma",
+    "subjects": [
+      {"name": "Data Structures", "weight": 40, "difficulty": "hard", "current_level": 30},
+      {"name": "Digital Electronics", "weight": 20, "difficulty": "medium", "current_level": 50},
+      {"name": "Physics", "weight": 20, "difficulty": "medium", "current_level": 60},
+      {"name": "English", "weight": 20, "difficulty": "easy", "current_level": 80}
+    ],
+    "hours_per_day": 4,
+    "days_until_deadline": 30,
+    "revision_days": 4
+  }
+}
