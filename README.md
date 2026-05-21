@@ -24,4 +24,4 @@ An interactive study planning agent that generates daily/weekly study schedules 
 - Provide the GitHub repo URL and the Colab notebook URL for the capstone submission.
 
 ## Author
-Your Name (MULLA ASMA)  
+MULLA ASMA
